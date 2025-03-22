@@ -1,4 +1,4 @@
-# Fully LOcal PDF Question Answering System
+# Fully Local PDF Question Answering System
 
 This application allows you to ask questions about your PDF documents and get relevant answers. It uses AI to understand your PDFs and provide accurate responses based on their content.
 
