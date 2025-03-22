@@ -1,10 +1,5 @@
-PyQt5
 langchain
 langchain-community
-wmi
-GPUtil
-setuptools
-appdirs
-winreg
-pynvml
-pyamdgpuinfo
+ollama
+faiss-cpu
+PyPDF2
